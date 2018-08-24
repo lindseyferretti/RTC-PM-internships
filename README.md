@@ -21,8 +21,6 @@ An ongoing list of product management internships for Fall 2018 - Summer 2019.
 | ------- |:----:|:-----------------:|:--------:|:-----:|
 | [The Walt Disney Company](https://jobs.diversityinc.com/job/program-manager-intern-new-york-spring-2019-ny-1852153?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Program Manager Intern | Now | NY | Junior, Senior, Graduate or recently graduated student pursuing a degree in technical field. |
 | [PerformLine](Link) | Product Management Intern | Now | NJ | Technical writing, roadmap planning, and running meetings. Collaborate and ideate on new product features and marketing offerings. Dogs make frequent office visits. |
-| [Company](Link) | Role | Applications Open | Location | Notes |
-| [Company](Link) | Role | Applications Open | Location | Notes |
 
 
 ## Summer 2019
