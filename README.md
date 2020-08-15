@@ -39,6 +39,23 @@ An ongoing list of product management internships for Fall 2018 - Summer 2019.
 | [SAP](https://jobs.sap.com) | SAP Cloud Platform Program Management Intern | Now | CA | Computer Science OR Business degree. MBA a strong plus. |
 | [Lenovo](https://lenovoworldwide.rolepoint.com) | Product Assurance Intern | Now | NC | Working towards a degree in technical field. Responsible for test planning and execution, Project management, Vendor management, Debugging and recreating defects. |
 
+
+## Summer 2021
+| Company | Role | Applications Open | Location | Notes |
+| ------- |:----:|:-----------------:|:--------:|:-----:|
+| [Apple](https://jobs.apple.com/) | Engineering Program Management Intern | July 2020 | CA |Pursuing BS in Computer Engineering, Computer Science, Mechanical Engineering, Electrical Engineering or related field. |
+| [BuzzFeed](https://www.buzzfeed.com/about/jobs) |  |  |  |  |
+| [Cisco](https://jobs.cisco.com) | Product Manager Intern |  | CA |  |
+| [Facebook](https://www.facebook.com/careers) | Technical Program Manager |  | CA |  |
+| [Google](https://careers.google.com) | Associate Product Manager Intern | Aug/Sept 2020 | CA | Bachelor's degree or equivalent practical experience. |
+| [Groupon](https://people.groupon.com/university/) | Product Manager Intern |  |  |  |
+| [IBM](https://www.ibm.com/us-en/employment/internships/) | DevOps Intern |  |  |  |
+| [LinkedIn](https://careers.linkedin.com/students/Internships) | Associate Product Manager Intern |  |  |  |
+| [Microsoft](https://careers.microsoft.com) | Software Engineering & Program Management Intern | Now | USA | Currently pursuing bachelor's, master's, or PhD degree in engineering, computer science or related field with at least one semester/quarter remaining after internship. A year or two of experience programming in C++, Java or other computer programming languages preferred.  |
+| [Redfin](https://www.redfin.com/careers/departments/early-career) | Associate Product Manager Intern | Aug 2020 | | |
+| [Salesforce](https://www.salesforce.com/company/careers/) | Associate Product Manager Intern | Aug 2020 | CA, WA, MA | Pursuing a BS or MS in Computer Science or a similar technical field (with a graduation date of spring 2022 or December 2021). |
+| [Yelp](https://www.yelp.careers/us/en) | Associate Product Manager Intern | | | |
+
 #### New Row Template
 | [Company](Link) | Role | Applications Open | Location | Notes |
 | --------------- |:----:|:-----------------:|:--------:|:-----:|
